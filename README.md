@@ -8,12 +8,12 @@ https://cults3d.com/en/3d-model/various/the-diamond-mount-direct-drive-hotend-mo
 
 Join The Diamond Community on discord: https://discord.gg/pKgXaNQZ
 
-# Pick the color or you choice 
-# Dowload the files and upload
-# Create .theme file ine mainsail (config file) 
+# -Pick the color or you choice 
+# -Dowload the files and upload
+# -Create .theme file ine mainsail (config file) 
 (if you don see the .theme actuvate hiden file)
-# Upload your file
-# click F5 to reload your intenet browser
+# -Upload your file
+# -Click F5 to reload your intenet browser
 
 If there is any bug you may have to go clean the image cache of your internet browser.
 
