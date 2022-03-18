@@ -1,4 +1,6 @@
-# Lorenzo_Diamond_mount
+# Lorenzo_Diamond_mount!
+[sidebar-background](https://user-images.githubusercontent.com/60906586/158922733-e022de1d-3572-46ce-b66e-a1bdeef9d2b6.png)
+
 Official_Mainsail_Theme_V1
 
 Hello! Thank you you for visiting. Here is the new Diamond mount official Theme for mainsail user!
