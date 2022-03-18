@@ -115,10 +115,6 @@ max-width
     color: hsl(61deg 100% 50%)!important;
 }
 
-svg a[data-v-590b1292] {
-    stroke: #4d8bc9;
-    stroke-width: 0.3px;
-}
 
 .theme--dark.v-btn-toggle:not(.v-btn-toggle--group) {
     background: #000000;
