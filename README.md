@@ -1,6 +1,6 @@
 # Lorenzo Design, Diamond_mount_Official_Mainsail_Theme_V1!
 
-![sidebar-background](https://user-images.githubusercontent.com/60906586/158922733-e022de1d-3572-46ce-b66e-a1bdeef9d2b6.png)
+![sidebar-background](https://user-images.githubusercontent.com/60906586/158923151-51f1c752-7ee2-4764-9ecb-9fbeff6546e1.png)
 
 Hello! Thank you you for visiting. Here is the new Diamond mount official Theme for mainsail user!
 Created by me officialized by Lorenzo designer of the Diamond mount for TwoTrees Sapphire 3d Printer:
