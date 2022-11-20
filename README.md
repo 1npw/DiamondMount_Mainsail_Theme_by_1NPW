@@ -1,4 +1,4 @@
-# Lorenzo Design, Diamond_mount_Official_Mainsail_Theme_V1!
+# Lorenzo Design, Diamond_mount_Official_Mainsail_Theme_V1 beta!
 
 ![sidebar-background](https://user-images.githubusercontent.com/60906586/158923151-51f1c752-7ee2-4764-9ecb-9fbeff6546e1.png)
 
