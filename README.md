@@ -6,11 +6,14 @@
 
 Hello! Thank you you for visiting. Here is the new Diamond mount, official Theme for mainsail user!
 Created by me, officialized by Lorenzo designer of the Diamond mount for TwoTrees Sapphire 3d Printer: 
+
 ![sidebar-background](https://user-images.githubusercontent.com/60906586/158923151-51f1c752-7ee2-4764-9ecb-9fbeff6546e1.png)
+
 https://cults3d.com/en/3d-model/various/the-diamond-mount-direct-drive-hotend-mount-for-v6-nf-smart-dragon-dragonfly-zodiac-bmo-and-more-sapphire-pro-sp-3-plus-sp-5-printers-laurienzudesign-2
 
 Join The Diamond Community on discord: https://discord.gg/pKgXaNQZ
 
+INSTRUCTIONS:
 # -Pick the color or you choice 
 # -Download the zip and unzip it on your computer
 # -Create .theme file ine mainsail (config file) 
