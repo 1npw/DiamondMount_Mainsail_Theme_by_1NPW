@@ -27,4 +27,7 @@ If there is any bug you may have to go clean the image cache of your internet br
 # This is free access, please share, modify, make it better !
 Please,  share with us your though and comment upgrade so we can make it better!
 
+Thanks to all klipper team, Mooracker, Mainsail
 
+more info about theming :
+https://docs.mainsail.xyz/features/theming/custom-css
