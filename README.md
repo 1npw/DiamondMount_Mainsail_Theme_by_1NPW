@@ -15,10 +15,14 @@ Join The Diamond Community on discord: https://discord.gg/pKgXaNQZ
 
 # #INSTRUCTIONS:
  -Pick the color or you choice and check the different main_background 
+ 
  -Download the zip and unzip it on your computer
+ 
  -Create .theme file in mainsail (config file) 
 (if you don't see the ".theme" you will need to activate "hiden file" by clicking on the gear on the right corner on the same page
+ 
  -Upload all the file #extracted from the zip file intop the newly created ".theme" file
+ 
  -Click F5 to reload your intenet browser it should update by itslef
 
 If there is any bug you may have to go clean the image cache of your internet browser.
