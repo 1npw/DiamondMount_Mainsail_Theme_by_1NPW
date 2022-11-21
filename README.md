@@ -21,7 +21,7 @@ Join The Diamond Community on discord: https://discord.gg/pKgXaNQZ
  -Create .theme file in mainsail (config file) 
 (if you don't see the ".theme" you will need to activate "hiden file" by clicking on the gear on the right corner on the same page
  
- -Upload all the file #extracted from the zip file intop the newly created ".theme" file
+ -Unzip thee zip file into the newly created ".theme" file
  
  -Click F5 to reload your intenet browser it should update by itslef
 
@@ -31,7 +31,7 @@ If there is any bug you may have to go clean the image cache of your internet br
 # This is free access, please share, modify, make it better !
 Please,  share with us your though and comment upgrade so we can make it better!
 
-Thanks to all klipper team, Mooracker, Mainsail
+Thanks to all klipper team, Mooracker, Mainsail and 3dprint fam 
 
 more info about theming :
 https://docs.mainsail.xyz/features/theming/custom-css
